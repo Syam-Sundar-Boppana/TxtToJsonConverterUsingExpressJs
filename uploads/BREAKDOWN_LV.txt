@@ -1,0 +1,161 @@
+/* 1 */
+{
+    "_id" : ObjectId("61360614db6bdc1c40fab877"),
+    "TIME_STAMP" : 1630930452584.0,
+    "MACHINE_ID" : "IMM-33",
+    "SHIFT" : "A",
+    "Locking Prob" : "96420"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("61374067db6bdc1c40fab8b2"),
+    "TIME_STAMP" : 1631010919074.0,
+    "MACHINE_ID" : "IMM-30",
+    "SHIFT" : "B",
+    "Hopper Throat Jammed" : "0"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("61388b90db6bdc1c40fabaf9"),
+    "TIME_STAMP" : 1631095696582.0,
+    "MACHINE_ID" : "IMM-34",
+    "SHIFT" : "B",
+    "Air Pressure Prob" : "0"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("61388bc1db6bdc1c40fabafb"),
+    "TIME_STAMP" : 1631095745927.0,
+    "MACHINE_ID" : "IMM-29",
+    "SHIFT" : "B",
+    "Ejector Prob" : "1"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("61388e14db6bdc1c40fabafd"),
+    "TIME_STAMP" : 1631096340791.0,
+    "MACHINE_ID" : "IMM-31",
+    "SHIFT" : "B",
+    "Ejector Prob" : "0"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("61388e52db6bdc1c40fabb02"),
+    "TIME_STAMP" : 1631096402165.0,
+    "MACHINE_ID" : "IMM-32",
+    "SHIFT" : "B",
+    "Encoder Prob" : "0"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("617140b95d2ea0577c72608e"),
+    "TIME_STAMP" : 1634812089300.0,
+    "MACHINE_ID" : "IMM-33",
+    "SHIFT" : "A",
+    "Air Pressure Prob" : "5"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("617143d95d2ea0577c726090"),
+    "TIME_STAMP" : 1634812889230.0,
+    "MACHINE_ID" : "IMM-01",
+    "SHIFT" : "A",
+    "Air Pressure Prob" : "10"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("6171487b5d2ea0577c726092"),
+    "TIME_STAMP" : 1634814075763.0,
+    "MACHINE_ID" : "IMM-01",
+    "SHIFT" : "A",
+    "Air Pressure Prob" : "5"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("617a8d5583f3db4e8cc1f132"),
+    "TIME_STAMP" : 1635421525719.0,
+    "MACHINE_ID" : "IMM-17",
+    "SHIFT" : "A",
+    "Air Pressure Prob" : "30"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("6188a1cb93f44314bcfbbea5"),
+    "TIME_STAMP" : 1636344267310.0,
+    "MACHINE_ID" : "IMM-29",
+    "SHIFT" : "A",
+    "Hopper Throat Jammed" : "2"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("618cbc7a93f44314bcfbc11c"),
+    "TIME_STAMP" : 1636613242153.0,
+    "MACHINE_ID" : "IMM-01",
+    "SHIFT" : "A",
+    "Air Pressure Prob" : "5"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("618f84ec93f44314bcfbc128"),
+    "TIME_STAMP" : 1636795628531.0,
+    "MACHINE_ID" : "IMM-01",
+    "SHIFT" : "B",
+    "Air Pressure Prob" : "10"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("618f8c1d93f44314bcfbc132"),
+    "TIME_STAMP" : 1636797469184.0,
+    "MACHINE_ID" : "IMM-12",
+    "SHIFT" : "A",
+    "Oil/ Water/ Air leakage" : "40"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("618f8c9e93f44314bcfbc134"),
+    "TIME_STAMP" : 1636797598858.0,
+    "MACHINE_ID" : "IMM-12",
+    "SHIFT" : "B",
+    "Oil/ Water/ Air leakage" : "40"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("618f8e7393f44314bcfbc136"),
+    "TIME_STAMP" : 1636798067617.0,
+    "MACHINE_ID" : "IMM-01",
+    "SHIFT" : "A",
+    "Air Pressure Prob" : "35"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("61a5f57f93f44314bcfbc6dc"),
+    "TIME_STAMP" : 1638266239516.0,
+    "MACHINE_ID" : "IMM-12",
+    "SHIFT" : "A",
+    "Mold Closing Prob" : "50"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("61a9e49f93f44314bcfbc7a4"),
+    "TIME_STAMP" : 1638524063071.0,
+    "MACHINE_ID" : "IMM-33",
+    "SHIFT" : "A",
+    "Locking Prob" : "30"
+}
