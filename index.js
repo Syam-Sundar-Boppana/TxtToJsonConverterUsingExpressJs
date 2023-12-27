@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const upload = require('express-fileupload');
 const app = express();
+const port = process.env.PORT || 3000;
 
 app.use(upload());
 
@@ -32,7 +33,7 @@ function convertingTxtToJson(){
     fs.writeFileSync(fileWritePath,requiredData);
 }
 
-app.listen(3000, ()=>{
+app.listen(port, "0.0.0.0", ()=>{
     console.log("Server Running at port:3000");
 })
 
